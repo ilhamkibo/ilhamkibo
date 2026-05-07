@@ -50,6 +50,9 @@ Saya memiliki ketertarikan besar dalam mengubah problem kompleks menjadi solusi 
 
 ### Bahasa & Framework
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -69,28 +72,19 @@ Saya memiliki ketertarikan besar dalam mengubah problem kompleks menjadi solusi 
 
 ---
 
-## 💼 Proyek Unggulan
+![](https://github-readme-stats.shion.dev/api?username=ilhamkibo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ilhamkibo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://streak-stats.demolab.com/?user=ilhamkibo&theme=dark&hide_border=false)<br/>
 
-| Proyek                                   | Deskripsi                                                | Teknologi                   |
-| ---------------------------------------- | -------------------------------------------------------- | --------------------------- |
-| 🏭 **Realtime Machine Monitoring**       | Sistem monitoring mesin real-time untuk lantai produksi  | .NET, SignalR, Redis        |
-| 🔍 **Traceability System**               | Sistem pelacakan produk dari hulu ke hilir               | .NET, React, SQL Server     |
-| 📦 **Warehouse Management System (WMS)** | Pengelolaan inventaris dan gudang secara menyeluruh      | Laravel, Vue.js, PostgreSQL |
-| 📅 **Schedule System**                   | Sistem penjadwalan produksi dan resource                 | Next.js, Node.js, Redis     |
-| ⚙️ **MES Manufacture**                   | Manufacturing Execution System untuk industri manufaktur | .NET Core, React, Azure     |
+## 🏆 GitHub Trophies
 
-> Sebagian besar proyek yang saya kerjakan berfokus pada kebutuhan **Manufacturing Execution System (MES)** di industri manufaktur.
+![](https://github-profile-trophy.vercel.app/?username=ilhamkibo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 📊 GitHub Stats
+[![](https://komarev.com/ghpvc/?username=ilhamkibo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilhamkibo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamkibo&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
-</p>
-
----
+## <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## ⚡ Fun Fact
 
