@@ -43,13 +43,9 @@ const ilham = {
 
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ilhamkibo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilhamkibo&theme=dracula)](https://github.com/ilhamkibo/github-readme-activity-graph)
 
 <br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilhamkibo&color=0d0d0d&style=flat-square&label=PROFILE+VIEWS" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
