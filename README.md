@@ -26,19 +26,29 @@
 const ilham = {
   location: "Bekasi, Indonesia",
   company: "Toho Technology Indonesia",
-  focus:   ["C#", ".NET", "Backend Architecture"],
-  stack:   ["TypeScript", "React", "Next.js", "Vue.js", "Node.js", "Laravel", "Redis"],
+  focus: ["C#", ".NET", "Backend Architecture"],
+  stack: [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Vue.js",
+    "Node.js",
+    "Laravel",
+    "Redis",
+  ],
   building: () =>
-    "MES · Realtime Monitoring · Traceability · WMS · Scheduling System"
+    "MES · Realtime Monitoring · Traceability · WMS · Scheduling System",
 };
 ```
 
 <br/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=ilhamkibo&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=fff&icon_color=fff&text_color=888" />
-  &nbsp;&nbsp;
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamkibo&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=fff&text_color=888" />
+  <img src="https://komarev.com/ghpvc/?username=ilhamkibo&color=0d0d0d&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
