@@ -24,8 +24,8 @@
 
 ```typescript
 const ilham = {
-  location: "Bekasi, Indonesia",
-  role: "Full Stack Engineer @ Toho Technology",
+  location: "Jakarta, Indonesia",
+  role: "Lead Software Engineer @ Toho Technology Indonesia",
 
   stack: {
     languages: ["C#", "TypeScript", "JavaScript", "PHP", "SQL"],
