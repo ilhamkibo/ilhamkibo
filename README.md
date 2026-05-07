@@ -25,19 +25,24 @@
 ```typescript
 const ilham = {
   location: "Bekasi, Indonesia",
-  company: "Toho Technology Indonesia",
-  focus: ["C#", ".NET", "Backend Architecture"],
-  stack: [
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Vue.js",
-    "Node.js",
-    "Laravel",
-    "Redis",
-  ],
-  building: () =>
-    "MES · Realtime Monitoring · Traceability · WMS · Scheduling System",
+  role: "Full Stack Engineer @ Toho Technology",
+
+  stack: {
+    languages: ["C#", "TypeScript", "JavaScript", "PHP", "SQL"],
+    backend: [".NET Core", "Node.js", "Laravel"],
+    frontend: ["React/Next.js", "Vue/Nuxt.js", "Tailwind"],
+    database: ["SQL Server", "PostgreSQL", "Redis"],
+  },
+
+  specialization: {
+    industrial_iot: ["MQTT", "Modbus", "OPC UA", "MC Protocol"],
+    devops_tools: ["Docker", "Nginx", "Linux"],
+  },
+
+  currentlyBuilding: () =>
+    ["MES", "Real-time Monitoring", "Traceability", "WMS", "Scheduling"].join(
+      " · ",
+    ),
 };
 ```
 
